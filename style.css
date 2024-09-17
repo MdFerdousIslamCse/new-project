@@ -1,0 +1,250 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+}
+
+.nav-content h2 {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.menu-button span {
+    font-size: 50px;
+}
+
+.hero-container {
+    text-align: center;
+}
+
+.hero-container h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.hero-container p {
+    font-size: 30px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.hero-container button {
+    padding-right: 100px;
+    padding-left: 100px;
+    border: 2px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+    font-size: 20px;
+    cursor: pointer;
+    transition: .3s;
+}
+.hero-container button:hover{
+    background-color: black;
+    color: white;
+    transition: .3s;
+  color: red;
+  border-radius: 5px;
+}
+
+.issues-cotainer{
+    display: flex;
+    align-items: center;
+ 
+}
+.im{
+    justify-content: center;
+
+    display: flex;
+    height: 250px;
+    width: 600px;
+    gap:15px;
+    padding-left: 150px;
+    padding-right: 50px;
+    text-align: center;
+    justify-content: space-between;
+ 
+
+    }
+.frist{
+    height: 400px;
+    width: 300px;
+}
+
+.ims{
+    height: 250px;
+
+    width: 380px;
+
+
+justify-content: center;
+margin-left: 465px;
+
+
+
+
+
+
+
+
+}
+.imse{
+    height: 250px;
+    width: 380px;
+margin-left: 860px;
+margin-top: -790px;
+
+
+
+}
+.ses{
+
+margin-top: -20px;
+padding-bottom: 70px;
+}
+
+
+.all-para{
+   
+    border: 1px solid darkgray;
+    width: 1100px;
+    text-align: center;
+   display: block;
+   margin-left: 135px;
+   height: 920px;
+   background-color: aqua;
+   padding: 10px;
+       
+    }
+    
+
+
+.myam{
+
+text-align: left;
+   justify-content: center;
+text-align: center;
+  text-align: center;
+ 
+  
+}
+.para{
+   
+  text-align: center;
+ 
+justify-content: center;
+    font-size: 26px;
+    font-weight: 25px;
+    gap:4px;
+    font-style:italic;
+  
+}
+.desinger{
+    font-size: 26px;
+}
+.parcon{
+    width: 150px;
+    height: auto;
+    border-radius: 100%;
+    margin-top: -70px;
+}
+
+.hire{
+width: 200px;
+height: 40px;
+font-size: 15px;
+
+
+}
+.hire:hover{
+    color: white;
+    background-color: black;
+    font-size: 17px;
+}
+
+
+
+.bad{
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 40px;
+    font-size: 19px;
+}
+.hub{
+    height: 40px;
+    width: 40px;
+}
+.all-live{
+display: flex;
+gap:150px;
+text-align: center;
+justify-content: center;
+padding-bottom: 40px;
+
+}
+.commas{
+
+text-align: center;
+padding-top: 40px;
+padding-bottom: 50px;
+font-size: 19px;
+
+
+
+}
+
+
+
+.raund{
+    display: flex;
+    gap:150px;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 40px;
+    
+}
+.mark{
+    display: flex;
+    gap:230px;
+    
+    justify-content: center;
+    margin-top: -50px;
+}
+
+/* number */
+
+.af{
+
+margin-top: -60px;
+padding-bottom: 60px;
+}
+.fa{
+display: flex;
+
+
+}
+.allparas{
+justify-content: center;
+display: flex;
+gap:150px
+
+}
+
+
+.say{
+    text-align: center;
+    font-size: 19px;
+    justify-content: center;
+    padding-bottom: 50px;
+}
